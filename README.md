@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Robert-Otieno-Alehandro21
+- 👋 Hi, I’m @Robert-Otieno
 - 👀 I’m interested in being a prolific IT genius
 - 🌱 I’m currently learning and studying to be a sofware engineer
 - 💞️ I’m looking to collaborate on innovative tech solutions to various world problems
